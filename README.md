@@ -16,7 +16,7 @@ You can test website on https://stupid-kid-af.github.io/Notes-Javascript/
 - Frontend Work
     - Adding Navbar
     - Adding Cool Animations on buttons
-    - Adding Dark theme
+    - Adding Dark theme (Added) (Requires optimization)
     - U tell me
 
 ##  Support
