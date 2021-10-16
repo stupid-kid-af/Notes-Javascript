@@ -23,6 +23,15 @@ body {
     position: fixed;
     top: 1rem;
     right: 1rem;
+    overflow: hidden;
+    transition: 0.3s;
+}
+
+.add:hover
+{
+    color: #9ec862;
+    background: #008000;
+    box-shadow: 0 0 10px #008000, 0 0 20px #008000, 0 0 30px #008000,
 }
 
 .note {
