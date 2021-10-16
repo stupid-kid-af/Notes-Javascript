@@ -20,3 +20,6 @@ You can test website on https://stupid-kid-af.github.io/Notes-Javascript/
     - U tell me
 
 ##  Support
+
+ Telegram Group : (Coming Soon)
+ As of now you can open an issue for support or message @stupid_kid_af (Telegram).
