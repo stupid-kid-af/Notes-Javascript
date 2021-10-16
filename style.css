@@ -72,8 +72,11 @@ body {
     border: none;
     height: 400px;
     width: 100%;
+    background-color:bisque;
+    
 }
 
 .note .hidden {
     display: none;
+    
 }
