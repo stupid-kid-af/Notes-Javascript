@@ -23,3 +23,12 @@ You can test website on https://stupid-kid-af.github.io/Notes-Javascript/
 
  Telegram Group : (Coming Soon)
  As of now you can open an issue for support or message @stupid_kid_af (Telegram).
+ 
+ 
+ ## Thanks to everyone for support
+ 
+ - Screenshots updating soon
+ - Special thanks to @florinpop17 for such a great repo.
+
+!!  This repo is forked from https://github.com/florinpop17/10-projects-10-hours
+
