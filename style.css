@@ -28,6 +28,7 @@ body {
     right: 1rem;
     overflow: hidden;
     transition: 0.3s;
+    
 }
 
 .add:hover
@@ -43,6 +44,7 @@ body {
     margin: 20px;
     height: 400px;
     width: 400px;
+    z-index: -2;
 }
 
 .note .tools {
@@ -66,6 +68,7 @@ body {
     overflow: hidden;
     height: 400px;
     width: 100%;
+    z-index: -2;
 }
 
 .note textarea {
@@ -76,12 +79,13 @@ body {
     height: 400px;
     width: 100%;
     background-color:bisque;
+    z-index: -2;
     
 }
 
 .note .hidden {
     display: none;
-    
+    z-index: -2;
 }
 
 /* Add a black background color to the top navigation */
