@@ -18,7 +18,7 @@ You can test website on https://stupid-kid-af.github.io/Notes-Javascript/
     - Adding Cool Animations on buttons (cutcha)
     - Adding Dark theme (Added) (Requires optimization)
     - Adding footer (Added)
-    - Adding Export option
+    - Adding Export option (Working on it)
     - U tell me
 
 ##  Support
