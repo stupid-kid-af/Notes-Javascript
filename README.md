@@ -29,6 +29,12 @@ You can test website on https://stupid-kid-af.github.io/Notes-Javascript/
     There are many bugs in experimental
     All unstable development released here(experimental)
     
+    experimental branch will not use Vanilla Javascript
+    
+    Framework (Libraries) in use will be updated soon.
+    
+    Any issue related to this repo contact me @stupid_kid_af (Telegram) or mail at pushpatripathi1111@gmail.com
+    
     
         - Adding Sign Up & Login feauture
 
@@ -45,3 +51,6 @@ You can test website on https://stupid-kid-af.github.io/Notes-Javascript/
 
 !!  This repo is forked from https://github.com/florinpop17/10-projects-10-hours
 
+
+Keep Supporting!
+Good Luck!!
