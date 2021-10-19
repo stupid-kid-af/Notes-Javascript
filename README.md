@@ -1,4 +1,8 @@
 ## Notes-Javascript (Experimental)
+
+# Updating Soon | Coming Soon
+
+
 An open-source notes taking web app built with vanilla javascript.
 
 
