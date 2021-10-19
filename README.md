@@ -37,6 +37,11 @@ You can test website on https://stupid-kid-af.github.io/Notes-Javascript/
     
     
         - Adding Sign Up & Login feauture
+        
+## Other (Platform, API)
+        - Android
+            - Firstly, we are considering web app as prior dev platform.
+                - After release of experimental branch we will take a look on Android app
 
 ##  Support
 
