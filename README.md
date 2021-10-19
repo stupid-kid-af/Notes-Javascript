@@ -1,4 +1,4 @@
-## Notes-Javascript
+## Notes-Javascript (Experimental)
 An open-source notes taking web app built with vanilla javascript.
 
 
