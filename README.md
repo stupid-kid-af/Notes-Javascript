@@ -21,6 +21,17 @@ You can test website on https://stupid-kid-af.github.io/Notes-Javascript/
     - Adding Export option (Working on it)
     - U tell me
 
+## Experimental
+
+    Checkout experimental branch of this repository.
+    Note : This is tottaly different from master 
+    
+    There are many bugs in experimental
+    All unstable development released here(experimental)
+    
+    
+        - Adding Sign Up & Login feauture
+
 ##  Support
 
  Telegram Group : (Coming Soon)
