@@ -4,7 +4,7 @@ An open-source notes taking web app built with vanilla javascript.
 
 ## Test Website
 
-You can test website on https://stupid-kid-af.github.io/Notes-Javascript/
+You can test website(brand => experimental) on https://notes-experimental.netlify.app/
 
 ## Roadmap
 
@@ -14,10 +14,6 @@ You can test website on https://stupid-kid-af.github.io/Notes-Javascript/
     - U tell me
 
 - Frontend Work
-    - Adding Navbar (Added) (As of now just for demo)
-    - Adding Cool Animations on buttons (cutcha)
-    - Adding Dark theme (Added) (Requires optimization)
-    - Adding footer (Added)
     - Adding Export option (Working on it)
     - U tell me
 
