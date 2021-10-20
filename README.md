@@ -7,6 +7,11 @@ An open-source notes taking web app built with vanilla javascript.
 You can test website on https://stupid-kid-af.github.io/Notes-Javascript/
 You can test website(brand => experimental) on https://notes-experimental.netlify.app/
 
+## Branch => master
+
+After release of experimental branch, this will remain stable branch.
+All unstable and experimental stuff being done in (branch => experimental).
+
 ## Roadmap
 
 - Frontend Work
