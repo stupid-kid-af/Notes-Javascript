@@ -2,7 +2,9 @@
 
 
 An open-source notes taking web app built with vanilla javascript.
-Adding soon Backend (Firebase).
+- Adding soon - Backend (Firebase).
+- Adding soon - Telegram group (Working on bots)
+
 
 ## Test Website
 
