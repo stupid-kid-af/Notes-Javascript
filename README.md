@@ -2,7 +2,7 @@
 
 
 An open-source notes taking web app built with vanilla javascript.
-Adding Backend (Firebase)
+Adding soon Backend (Firebase).
 
 ## Test Website
 
