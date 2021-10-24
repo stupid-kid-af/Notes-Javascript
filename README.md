@@ -60,7 +60,7 @@ All unstable and experimental stuff being done in (branch => experimental).
  - Screenshots updating soon
  - Special thanks to @florinpop17 for such a great repo.
 
-!!  This repo is forked from https://github.com/florinpop17/10-projects-10-hours
+!!  This branch=> 'master' is forked from https://github.com/florinpop17/10-projects-10-hours
 
 
 Keep Supporting!
