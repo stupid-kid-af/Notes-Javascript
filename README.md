@@ -1,6 +1,7 @@
 ## Notes-Javascript
 !! Updating Soon
-An open-source notes taking web app built with vanilla javascript.
+An open-source notes taking web app(pwa) built with vanilla javascript(master).
+branch => 'experimental' built with ReactJs
 
 
 ## Test Website
