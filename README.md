@@ -3,6 +3,7 @@
 An open-source notes taking web app(pwa) built with vanilla javascript(master). 
 
 Branch => 'experimental' built with ReactJs
+Added Google Auth
 
 
 ## Test Website
