@@ -21,7 +21,7 @@ firebase.auth().onAuthStateChanged((user) => {
 	setIsUserSignedIn(false);
 
 })
-if (isUserSignedIn == true) {
+if (isUserSignedIn === true) {
 	return(
 		<Router>
 			<Switch>
