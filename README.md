@@ -5,7 +5,7 @@ An open-source notes taking web app (pwa) built with vanilla javascript.
 - Adding soon - Backend (Firebase).
 - Adding soon - Telegram group (Working on bots).
 
-
+!! Currently use master branch for taking notes
 
 ## Test Website
 
