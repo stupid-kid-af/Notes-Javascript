@@ -4,6 +4,8 @@ An open-source notes taking web app(pwa) built with vanilla javascript(master).
 
 Branch => 'experimental' built with ReactJs
 
+!! If have any prior knowledge then please solve issues.
+
 ## Test Website
 
 You can test website on https://stupid-kid-af.github.io/Notes-Javascript/
