@@ -1,5 +1,7 @@
 ## Notes-Javascript
 !! Updating Soon
+Sorry for delay
+
 An open-source notes taking web app(pwa) built with vanilla javascript(master). 
 
 Branch => 'experimental' built with ReactJs
